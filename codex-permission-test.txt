@@ -1,1 +1,0 @@
-Codex/GitHub permission test. If this file exists, ChatGPT GitHub connector can write to this repo.
